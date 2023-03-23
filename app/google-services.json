@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970038801317",
+    "project_id": "lecture-04-notification",
+    "storage_bucket": "lecture-04-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970038801317:android:786fdbb643f14955f72e4c",
+        "android_client_info": {
+          "package_name": "com.example.lecture04notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970038801317-adikmvqoiohh49vng6h1vcd86ogg23js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEEDU4xL9G2lxMXUKiByT_K9tXaeQ-5no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970038801317-adikmvqoiohh49vng6h1vcd86ogg23js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
